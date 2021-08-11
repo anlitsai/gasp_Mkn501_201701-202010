@@ -1,0 +1,1 @@
+../gasp/data/gasp_target_fitsheader_info_exclude_baddata_201803.txt
